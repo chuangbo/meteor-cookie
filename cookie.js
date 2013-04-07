@@ -1,4 +1,4 @@
-var Cookie = {};
+Cookie = {};
 
 (function(exports) {
 
