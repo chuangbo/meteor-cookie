@@ -3,7 +3,7 @@
   "description": "Simple cookies for browser.",
   "homepage": "https://github.com/chuangbo/meteor-cookie",
   "author": "Chuangbo Li <im@chuangbo.li>",
-  "version": "1.0.2.2",
+  "version": "1.0.2.3",
   "git": "https://github.com/chuangbo/meteor-cookie.git",
   "packages": {}
 }
