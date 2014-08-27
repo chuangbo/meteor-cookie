@@ -1,4 +1,4 @@
-this.Cookie = {};
+Cookie = {};
 
 (function(exports) {
 
@@ -187,4 +187,4 @@ this.Cookie = {};
         return s;
     }
 
-})(this.Cookie);
+})(Cookie);
