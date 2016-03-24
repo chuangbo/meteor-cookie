@@ -2,6 +2,10 @@
 
 Wrapper of https://github.com/aralejs/cookie
 
+## Installation
+
+```meteor add mrt:cookies```
+
 ## Usage
 
 ### get *Cookie.get(name, [options])*
