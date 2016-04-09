@@ -4,7 +4,7 @@ Wrapper of https://github.com/aralejs/cookie
 
 ## Installation
 
-```meteor add mrt:cookies```
+```meteor add chuangbo:cookies```
 
 ## Usage
 
